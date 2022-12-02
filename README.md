@@ -6,4 +6,4 @@ Codigo: 20212678016
 Materia: Computacion cuantica
 Docente: Ruben Guerrero Mancilla
 
-Se hace la solucion por cada punto separado en diferentes notebook. 
+Se hace la solucion de cada punto en el mismo notebook, demarcando los puntos.
